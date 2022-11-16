@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BEASTXHARDIK
 - 👀 I’m interested IN ANIME
-- 🌱 I’m currently learning html &css
+- 🌱 I’m currently learning c++ nd oop basics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
